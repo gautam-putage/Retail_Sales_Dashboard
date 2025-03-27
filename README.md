@@ -1,48 +1,42 @@
-Overall Performance:
+# 📊 Executive Retail Sales Analytics
 
-Year-to-Date (YTD) Sales: $1.747M
+## Overview
+This dashboard provides insights into the **Executive Retail Sales** performance, covering key metrics such as sales, profit, quantity, regional performance, and category analysis.
 
-YTD Profits: $236K
+## 🔍 Key Insights
 
-YTD Quantity Sold: 28K units
+### 📈 Overall Performance
+- **YTD Sales:** $1.747M
+- **YTD Profits:** $236K
+- **YTD Quantity Sold:** 28K units
+- **YTD Average Discount:** 15.35%
 
-YTD Average Discount: 15.35%
+### 🌍 Regional Sales Performance
+- **West Region**: Best performing, exceeding the goal with **85,855 units**.
+- **Central Region**: Slightly positive performance.
+- **East & South Regions**: Underperformed with negative sales deviations:
+  - East: **-24,511**
+  - South: **-6,382**
 
-Regional Sales Performance:
+### ⏳ Best Performing Time Period
+- **September** recorded the **highest sales and profits**.
+- Sales peaked around **mid-2018** based on the time-series trend.
 
-The West region performed the best, exceeding the sales goal with 85,855 units.
+### 🏆 Top-Selling Product Categories
+- **Furniture:** Chairs ($286K) and Tables ($158K) performed well.
+- **Office Supplies:** Strong sales in Storage and Binders.
+- **Technology:** Phones ($260K) and Copiers among top contributors.
 
-The Central region had a slight positive performance.
+### 🌎 Geographic Sales Trends
+- **West & Central regions** performed the best.
+- Sales were concentrated in **major urban areas**.
+- **New York City** was the **best performer over the last two years**.
 
-The East and South regions underperformed, with negative sales deviations of -24,511 and -6,382 respectively.
+## 📌 Recommendations
+✅ Improve sales in **East & South regions** through strategic interventions.
+✅ Maintain strong inventory & marketing for **high-performing categories** (Phones, Chairs).
+✅ Leverage **high-performing timeframes** (e.g., September) for targeted promotional campaigns.
 
-Best Performing Time Period:
-
-September of the year recorded the highest sales and profits.
-
-The time series chart (bottom right) shows peaks in sales around mid-2018.
-
-Top-Selling Product Categories:
-
-Furniture: Chairs ($286K) and Tables ($158K) performed well.
-
-Office Supplies: Storage and Binders showed strong sales.
-
-Technology: Phones ($260K) and Copiers were among the top contributors.
-
-Geographic Sales Trends:
-
-The West and Central regions performed the best.
-
-A geographical heatmap shows sales concentrated in major urban areas with green circles indicating positive sales and red circles showing losses.
-
-City-Level Performance:
-
-New York City was the best performer over the last two years.
-
-Recommendations:
-Focus on improving sales in East and South regions by addressing gaps.
-
-Maintain strong inventory and marketing for high-performing categories (Phones, Chairs).
-
-Continue leveraging high-performing timeframes, such as September, for promotional campaigns.
+---
+📊 **Data Source:** Internal Retail Sales Data  
+🗺️ **Visualization Tool:** Tableau / Power BI
