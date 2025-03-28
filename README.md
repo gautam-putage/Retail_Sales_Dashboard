@@ -39,4 +39,4 @@ This dashboard provides insights into the **Executive Retail Sales** performance
 
 ---
 📊 **Data Source:** Internal Retail Sales Data  
-🗺️ **Visualization Tool:** Tableau / Power BI
+🗺️ **Visualization Tool:** Tableau 
